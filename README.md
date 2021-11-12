@@ -46,18 +46,18 @@ Les émulateurs de systèmes encore en ventes sont morallement incorrects, car c
 
 ![Prix_fire_emblem_path_of_radiance](media/Pathofradianceprix.PNG)
 
->Fire emblem Path of Radiance, un des jeux publiés par Nintendo les plus rare sur la GameCube.
+>_Fire emblem: Path of Radiance_, un des jeux publiés par Nintendo les plus rare sur la GameCube.
 
 
 ## Conseils émulateur par émulateur
 
 Dans ce tutoriel, je vais majoritairement parler seulement des émulateurs avec lesquels j'ai de l'expérience. C'est à dire:
 
-- Snes9x (super nintendo)
-- VisualBoyAdvance (gameboy advance)
-- Project64 (nintendo64)
-- PPSSPP (psp)
-- Dolphin (gamecube/wii)
+- Snes9x (Super Nintendo)
+- VisualBoyAdvance (GameBoy advance)
+- Project64 (Nintendo64)
+- PPSSPP (PsP)
+- Dolphin (GameCube/Wii)
 
 Bien sûr, une manette est recommancée pour chacun d'entre eux, mais je vais quand même donner mes control mappings pour chaque émulateur.
 
@@ -69,9 +69,9 @@ L'émulateur avec lequel j'ai le moins d'expérience sur la liste, quelque chose
 
 ![snesjeu2](media/snesjeu2.PNG)
 
->Fire emblem Genealogy of the Holy war, jeu originalement exclusif au Japon, traduit par un fan
+>_Fire emblem: Genealogy of the Holy war_, jeu originalement exclusif au Japon, traduit par un fan
 
-Un conseil que je peux donner pour cet émulateur serait d'y jouer en petite fenêtre, comme tout ce que l'émulateur fait, c'est exécuter le jeu, il ne rempli pas les pixels étendus par le plein écran, ce qui donne des jeux très laids.
+Un conseil que je peux donner pour cet émulateur serait d'y jouer en petite fenêtre, comme tout ce que l'émulateur fait, c'est exécuter le jeu, il ne rempli pas les pixels étendus par le plein écran, ce qui donne des jeux très durs pour les yeux.
 
 Pour information, voici mon control mapping sur Super Nintendo:
 
@@ -89,7 +89,7 @@ L'émulateur que j'ai le plus souvent utilisé dans les temps récents, et aussi
 
 ![gba_jeu2](media/gbajeu2.PNG)
 
->Pokémon emerauld, vu comme l'un des meilleurs jeux de la franchise.
+>_Pokémon emerauld_, vu comme l'un des meilleurs jeux de la franchise.
 
 Comme pour la Super Nintendo, Voici mes control mappings pour la GameBoy Advance:
 
@@ -105,9 +105,24 @@ En résumé, la GameBoy Advance à été une des consoles portables avec une des
 
 À partir de maintenant, nous entrons dans les émulateurs de jeux en 3D, si c'était compliqué de jouer au jeux 2D des autres émulateurs, cela peux devenir une corvée sur ceux-ci mais il y a aussi quelque chose d'autre qui fait son arrivée avec cet émulateur, le repository, on peux donner un fichier à l'émulateur dans lequel aller chercher les roms et celles-ci vont s'afficher automatiquement sur l'émulateur lui-même.
 
+![n64repository](media/n64repository.PNG)
 
+>Ici, on peut voir ma liste de rom de n64 complète à l'intérieur de l'émulateur.
 
-J'ai souvent utilisé cet émulateur dans le passé, même que c'était le premier que j'ai utilisé
+J'ai souvent utilisé cet émulateur dans le passé, même que c'était le premier que j'ai utilisé, c'est celui-ci qui m'a donné l'intérêt dans ce domaine. L'émulateur en lui même est encore en train recevoir des mises-à-jour, par exemple, la dernière fois que j'avais ouvert l'émulateur, il n'y avait pas encore de repository. La raison de pourquoi un émulateur aussi vieux recevrait encore des mises-à-jours est simple, un émulateur dois faire croire au jeu qu'il est en train de marcher sur la console. Puis certains jeux sont plus compliqués à manipuler que d'autres, certains comprènenet qu'ils ne sont pas sur la console et ne fonctionnent pas. Il peux y avoir plusieurs raisons pour cela.
+
+![n64jeu](media/n64jeu.PNG)
+
+![n64jeu2](media/n64jeu2.PNG)
+
+>_Banjo-Kazooie_, ce jeu n'est pas l'un des plus connus de la console, mais il reste l'un des premiers collectathon et finira par inspirer des jeux tels que _Yooka-Laylee_, un successeur spirituel, et _A Hat in Time_, un des seuls bon platformers à être sorti dans les années récentes.
+
+Bien sûr, voici mon control mapping, mais à partir de cet émulateur, je recommande sérieusement de jouer avec une manette, car ces jeux ne sont simplements pas faits pour être joués avec un clavier.
+
+![n64_control_mapping](media/n64controlmapping.PNG)
+
+La Nintendo 64 à été une des premières consoles de jeu avec des jeux en 3 dimensions, malheureusement, le système était limité par l'utilisation de cartouches, alors que la Playstation utilisait des disques compactes, ce qui permettait d'avoir des jeux beaucoup plus grands et lourds, la Nintendo 64 est restée avec le support des cartouche. Cela ne change pas que cette console a dans sa librairie des jeux qui ont définis leurs genre, tels que _Super Mario 64_ ainsi que _The Legend of Zelda: Ocarina of Time_.
+
 
 
 
