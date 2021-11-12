@@ -127,7 +127,11 @@ La Nintendo 64 à été une des premières consoles de jeu avec des jeux en 3 di
 
 Le seul émulateur de la liste qui n'est pas d'une console Nintendo, Il est également très différent des autres émulateurs, ayant un interface unique à lui. 
 
+![psp_interface](media/pspinterface.PNG)
 
+>L'émulateur peux être mis en plein écran, ce qui n'est pas possible sur les autres en dehors des jeux, également, on peux voir que j'ai des mises-à-jours à faire.
+
+Cet émulateur est un peu plus instable, certains jeux ne sont pas encore parfaitement fonctionnels, et 
 
 
 
