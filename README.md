@@ -71,6 +71,16 @@ Un conseil que je peux donner pour cet émulateur serait d'y jouer en petite fen
 
 Pour information, voici mon control mapping sur snes:
 
+![control_mapping_snes](media/controlmappingsnes.PNG)
+
+>l'idée était de plus ou moins répliquer le mapping original des controls sur la manette, mais sur un clavier. Certaines touches sont manquantes car elles ne sont pas nécéssaires.
+
+Bref, c'est un très bon émulateur, et comme vous avez pu constater, il peux également utiliser des roms modifiées par des personnes, que ce sois pour des mods, ou bien comme dans cet exemple, un patch de langue.
+
+### VisualBoyAdvance
+
+L'émulateur que j'ai le plus souvent utilisé dans les temps récents, et aussi celui sur lequel j'ai le plus de roms. Cet émulateur est aussi stable que celui pour la snes, en raison de la simpliciée du système. Comme ces émulateurs marchent parfaitement, c'est compliqué de dire beaucoup sur eux, mais bien sûr cela va changer avec ceux plus récents. 
+
 
 
 
