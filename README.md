@@ -61,7 +61,15 @@ Bien sûr, une manette est recommancée pour chacun d'entre eux, mais je vais qu
 
 L'émulateur avec lequel j'ai le moins d'expérience sur la liste, quelque chose d'évident avec les émulateurs, c'est que plus le système est ancien ou bien simpliste, plus l'émulateur foncitonne bien, comme dans ce cas nous parlons d'un émulateur de Super Nintendo, cet émulateur est très stable
 
+![snesjeu](media/snesjeu.PNG)
 
+![snesjeu2](media/snesjeu2.PNG)
+
+>Fire emblem Genealogy of the Holy war, jeu originalement exclusif au Japon, traduit par un fan
+
+Un conseil que je peux donner pour cet émulateur serait d'y jouer en petite fenêtre, comme tout ce que l'émulateur fait, c'est exécuter le jeu, il ne rempli pas les pixels étendus par le plein écran, ce qui donne des jeux très laids.
+
+Pour information, voici mon control mapping sur snes:
 
 
 
