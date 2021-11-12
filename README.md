@@ -10,6 +10,17 @@ L'émulation est un sujet intéressant, un programme permettant de créer un sys
 
 ## En fait, c'est quoi un émulateur?
 
-On peut comparer un émulateur à un parasite, car il force le système d'un ordinateur à exécuter un second système (c'est à dire le système de la console) en parralèle au système que l'ordinateur exécute déja, c'est à dire windows, macOS ou bien linux. C'est pourquoi certains ordinateurs moins puissants peuvent avoir des problèmes
+On peut comparer un émulateur à un parasite, car il force le système d'un ordinateur à exécuter un second système (c'est à dire le système de la console) en parralèle au système que l'ordinateur exécute déja, c'est à dire windows, macOS ou bien linux. C'est pourquoi certains ordinateurs moins puissants peuvent avoir des problèmes. Un émulateur correspond à la description d'un parasite car il prend des ressources de l'ordinateur sans rien donner en retour, il ne peut également pas exister par lui même.
 
-![dolphin_task_manager](presentationdomaine/media/dolphintaskmanager.PNG)
+![dolphin_task_manager](media/dolphintaskmanager.PNG)
+
+>Comme vous pouvez voir ici, exécuter un jeu wii de 14 ans prend 10% de mon cpu
+
+
+## Le tutoriel
+
+Ce tutoriel va surtout se porter sur comment utiliser plusieurs émulateurs, je ferais une liste à la fin, mais je vais surtout parler de ceux avec lesquels j'ai de l'expérience. Mais avant cela, quelques conseils à ceux et celles qui voudrait éventuellement se plonger dans ce monde:
+
+### C'est quoi une rom?
+
+Une rom, ou bien un fichier .rom, est l'image d'une cartouche, c'est l'entièreté du contenu d'une cartouche contenu dans un fichier, c'est la même chose pour les fichiers .iso qui sont l'image d'un disque compact. 
