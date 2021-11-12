@@ -16,7 +16,6 @@ On peut comparer un émulateur à un parasite, car il force le système d'un ord
 
 >Comme vous pouvez voir ici, exécuter un jeu wii de 14 ans prend 10% de mon cpu
 
-
 ## Le tutoriel
 
 Ce tutoriel va surtout se porter sur comment utiliser plusieurs émulateurs, je ferais une liste à la fin, mais je vais surtout parler de ceux avec lesquels j'ai de l'expérience. Mais avant cela, quelques conseils à ceux et celles qui voudrait éventuellement se plonger dans ce monde:
@@ -25,7 +24,12 @@ Ce tutoriel va surtout se porter sur comment utiliser plusieurs émulateurs, je 
 
 Une rom, ou bien un fichier .rom, est l'image d'une cartouche, c'est l'entièreté du contenu d'une cartouche contenu dans un fichier, c'est la même chose pour les fichiers .iso qui sont l'image d'un disque compact. Quand vous recherchez une rom, n'installez jamais de fichier .exe, les roms ne sont pas des exécutables, car sinon les émulateurs ne serviraient pas à grand chose, ces fichiers sont toujours des virus. Le seul autre fichier dans lequel une rom peut apparaître serait un fichier .zip, mais à ce moment là, **Toujours analyser les fichiers .zip avant de les extraire.** À cause de la nature du sujet, il y a souvent des virus dans les roms, il faut faire extrêmement attention lorsqu'on recherche ces fichiers.
 
-### Comment organiser ses fichiers.
+### Quels avantages y-a-t'il à utiliser un émulateur?
+
+En plus d'être plus facile à obtenir que des copies de jeux vieux de 20 ans, les émulateurs apportent plusieurs fonctions que les jeux originals n'avaient pas, par exemple, la possibilité de changer le mapping des controls, ou bien encore, une fonction assez connue des émulateurs, la save state, qui permet à l'utilisateur de sauvegarder à n'importe quel moment, ce qui peux bien sûr être abusé, mais faites attention lorsque vous utilisez cette fonction, car vour pourriez rester bloqué dans une boucle. Si la situation dans laquelle vous avez fait une save state est impossible à éviter. Ce genre de fonction sont d'ailleurs très utiles en speedrun pour pratiquer un segment en particulier.
+
+
+### Comment organiser ses fichiers?
 
 Toujours avoir un fichier mère avec tout les émulateurs à l'intérieur, par exemple, voici le mien:
 
@@ -69,17 +73,48 @@ L'émulateur avec lequel j'ai le moins d'expérience sur la liste, quelque chose
 
 Un conseil que je peux donner pour cet émulateur serait d'y jouer en petite fenêtre, comme tout ce que l'émulateur fait, c'est exécuter le jeu, il ne rempli pas les pixels étendus par le plein écran, ce qui donne des jeux très laids.
 
-Pour information, voici mon control mapping sur snes:
+Pour information, voici mon control mapping sur Super Nintendo:
 
 ![control_mapping_snes](media/controlmappingsnes.PNG)
 
 >l'idée était de plus ou moins répliquer le mapping original des controls sur la manette, mais sur un clavier. Certaines touches sont manquantes car elles ne sont pas nécéssaires.
 
-Bref, c'est un très bon émulateur, et comme vous avez pu constater, il peux également utiliser des roms modifiées par des personnes, que ce sois pour des mods, ou bien comme dans cet exemple, un patch de langue.
+Bref, c'est un très bon émulateur, et comme vous avez pu constater, il peux également utiliser des roms modifiées par des personnes, que ce sois pour des mods, ou bien comme dans cet exemple, un patch de langue. La Super Nintendo à été une des consoles les plus importantes de l'histoire, après le krash des jeux vidéos entraîné par atari, Nintendo avait vendu la NES originale comme un jouet, mais la super nintendo à été vendue comme une console de jeu, et elle fut très bien reçue car elle faisait tout ce que la NES faisait, mais mieux.
 
 ### VisualBoyAdvance
 
 L'émulateur que j'ai le plus souvent utilisé dans les temps récents, et aussi celui sur lequel j'ai le plus de roms. Cet émulateur est aussi stable que celui pour la snes, en raison de la simpliciée du système. Comme ces émulateurs marchent parfaitement, c'est compliqué de dire beaucoup sur eux, mais bien sûr cela va changer avec ceux plus récents. 
+
+![gba_jeu](media/gbajeu.PNG)
+
+![gba_jeu2](media/gbajeu2.PNG)
+
+>Pokémon emerauld, vu comme l'un des meilleurs jeux de la franchise.
+
+Comme pour la Super Nintendo, Voici mes control mappings pour la GameBoy Advance:
+
+![gba_control_mapping](media/gbacontrolmapping.PNG)
+>Ici, comme j'avais plus d'expérience avec l'émulateur, le mapping n'est pas une réplique des controls originaux, mais plutôt une version qui est plus agréable et faite pour ordinateurs.
+
+Ici comme pour la snes, jouer en fenêtré est recommandé pour une meilleure expérience, prenez le de quelqu'un qui a joué a 2 jeux complets sur cet émulateur en plein écran, ce n'était pas agréable.
+
+En résumé, la GameBoy Advance à été une des consoles portables avec une des bibilothèques de jeux les plus grandes, car en plus d'avoir en elle même une très grande collection, elle était également rétrocompatible avec la gameboy et la gameboy color. De plus, le pixel art des jeux est extrêmement plaisant à regarder. L'émulateur peux également supporter les mods et les patchs comme celui de Super Nintendo, la raison poour cela est qu'un émulateur ne se demande pas si c'est un jeu légitime comme la console originale, il ne fait que ce qui lui est demandé.
+
+
+### Project64
+
+À partir de maintenant, nous entrons dans les émulateurs de jeux en 3D, si c'était compliqué de jouer au jeux 2D des autres émulateurs, cela peux devenir une corvée sur ceux-ci mais il y a aussi quelque chose d'autre qui fait son arrivée avec cet émulateur, le repository, on peux donner un fichier à l'émulateur dans lequel aller chercher les roms et celles-ci vont s'afficher automatiquement sur l'émulateur lui-même.
+
+
+
+J'ai souvent utilisé cet émulateur dans le passé, même que c'était le premier que j'ai utilisé
+
+
+
+
+
+
+
 
 
 
