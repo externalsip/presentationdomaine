@@ -6,7 +6,7 @@ Malgré la légalité des programmes d'émulations en eux-même, les roms utilis
 
 ## Introduction
 
-L'émulation est un sujet intéressant, un programme permettant de créer un système à l'intérieur du système d'un ordinateur. Ils permettent également de faire quelque chose qui devrait être pris plus au sérieux par les grandes compagnies, c'est-à-dire la préservation des anciens jeux. Quelque chose qui est pris très au sérieux dans des domaines tel que le film et la musique, mais souvent très peu pratiqué dans le domaine du jeu vidéo.
+L'émulation est un sujet intéressant, un programme permettant de créer un système à l'intérieur du système d'un ordinateur. Ils permettent également de faire quelque chose qui devrait être pris plus au sérieux par les grandes compagnies, c'est-à-dire la préservation des anciens jeux. Quelque chose qui est pris très au sérieux dans des domaines tel que le film et la musique, mais souvent très peu pratiqué dans le domaine du jeu vidéo. Les jeux vidéos sont également des oeuvres d'art et méritent qu'on leur apporte autant d'attention, si ce n'est plus car même si nous pouvons faire jouer un film sur n'importe quel lecteur, un jeu ne fonctionne que sur le système pour lequel is a été conçu.
 
 ## En fait, c'est quoi un émulateur?
 
@@ -23,4 +23,18 @@ Ce tutoriel va surtout se porter sur comment utiliser plusieurs émulateurs, je 
 
 ### C'est quoi une rom?
 
-Une rom, ou bien un fichier .rom, est l'image d'une cartouche, c'est l'entièreté du contenu d'une cartouche contenu dans un fichier, c'est la même chose pour les fichiers .iso qui sont l'image d'un disque compact. 
+Une rom, ou bien un fichier .rom, est l'image d'une cartouche, c'est l'entièreté du contenu d'une cartouche contenu dans un fichier, c'est la même chose pour les fichiers .iso qui sont l'image d'un disque compact. Quand vous recherchez une rom, n'installez jamais de fichier .exe, les roms ne sont pas des exécutables, car sinon les émulateurs ne serviraient pas à grand chose, ces fichiers sont toujours des virus. Le seul autre fichier dans lequel une rom peut apparaître serait un fichier .zip, mais à ce moment là, **Toujours analyser les fichiers .zip avant de les extraire.** À cause de la nature du sujet, il y a souvent des virus dans les roms, il faut faire extrêmement attention lorsqu'on recherche ces fichiers.
+
+### Comment organiser ses fichiers.
+
+Toujours avoir un fichier mère avec tout les émulateurs à l'intérieur, par exemple, voici le miens:
+
+
+
+
+
+
+
+
+
+
