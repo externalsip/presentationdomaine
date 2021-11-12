@@ -11,3 +11,5 @@ L'émulation est un sujet intéressant, un programme permettant de créer un sys
 ## En fait, c'est quoi un émulateur?
 
 On peut comparer un émulateur à un parasite, car il force le système d'un ordinateur à exécuter un second système (c'est à dire le système de la console) en parralèle au système que l'ordinateur exécute déja, c'est à dire windows, macOS ou bien linux. C'est pourquoi certains ordinateurs moins puissants peuvent avoir des problèmes
+
+![dolphin_task_manager](presentationdomaine/media/dolphintaskmanager.png)
