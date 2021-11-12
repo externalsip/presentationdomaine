@@ -123,6 +123,10 @@ Bien sûr, voici mon control mapping, mais à partir de cet émulateur, je recom
 
 La Nintendo 64 à été une des premières consoles de jeu avec des jeux en 3 dimensions, malheureusement, le système était limité par l'utilisation de cartouches, alors que la Playstation utilisait des disques compactes, ce qui permettait d'avoir des jeux beaucoup plus grands et lourds, la Nintendo 64 est restée avec le support des cartouche. Cela ne change pas que cette console a dans sa librairie des jeux qui ont définis leurs genre, tels que _Super Mario 64_ ainsi que _The Legend of Zelda: Ocarina of Time_.
 
+### PPSSPP
+
+Le seul émulateur de la liste qui n'est pas d'une console Nintendo, Il est également très différent des autres émulateurs, ayant un interface unique à lui. 
+
 
 
 
