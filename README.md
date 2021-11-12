@@ -33,6 +33,13 @@ Toujours avoir un fichier mère avec tout les émulateurs à l'intérieur, par e
 
 >Chacun de ces dossiers contiennent l'émulateur en question ainsi que les roms ou isos
 
+Toujours avoir les roms au même endroit que l'émulateur facilite les choses car certains émulateurs vont demander un fichier dans lequel aller chercher les jeux, avoir le fichier à côté facilite les choses. Cela permet aussi de ne pas avoir à rechercher chaque roms une par une lorsque on essai d'ouvrir un jeu avec un émulateur un peu plus vieux.
+
+
+### À quel moment est ce que utiliser un émulateur devient quelque chose d'acceptable?
+
+Les émulateurs de systèmes encore en ventes sont morallement incorrects, car ce n'est plus de la préservation, mais du piratage pur et simple, dans le monde de l'émulation, les limites sont marquées par les morales de l'utilisateur. Dans mon cas, je n'accepte d'utiliser un emulateur seulement dans les cas ou le jeu n'est plus officielement en vente et la seule manière de l'obtenir et de l'acheter à un prix ridicule a un vendeur tiers.
+
 
 
 
