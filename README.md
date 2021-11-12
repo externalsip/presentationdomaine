@@ -40,6 +40,28 @@ Toujours avoir les roms au même endroit que l'émulateur facilite les choses ca
 
 Les émulateurs de systèmes encore en ventes sont morallement incorrects, car ce n'est plus de la préservation, mais du piratage pur et simple, dans le monde de l'émulation, les limites sont marquées par les morales de l'utilisateur. Dans mon cas, je n'accepte d'utiliser un emulateur seulement dans les cas ou le jeu n'est plus officielement en vente et la seule manière de l'obtenir et de l'acheter à un prix ridicule a un vendeur tiers.
 
+![Prix_fire_emblem_path_of_radiance](media/Pathofradianceprix.PNG)
+
+>Fire emblem Path of Radiance, un des jeux publiés par Nintendo les plus rare sur la GameCube.
+
+
+## Conseils émulateur par émulateur
+
+Dans ce tutoriel, je vais majoritairement parler seulement des émulateurs avec lesquels j'ai de l'expérience. C'est à dire:
+
+- Snes9x (super nintendo)
+- VisualBoyAdvance (gameboy advance)
+- Project64 (nintendo64)
+- PPSSPP (psp)
+- Dolphin (gamecube/wii)
+
+Bien sûr, une manette est recommancée pour chacun d'entre eux, mais je vais quand même donner mes control mappings pour chaque émulateur.
+
+### Snes9x
+
+L'émulateur avec lequel j'ai le moins d'expérience sur la liste, quelque chose d'évident avec les émulateurs, c'est que plus le système est ancien ou bien simpliste, plus l'émulateur foncitonne bien, comme dans ce cas nous parlons d'un émulateur de Super Nintendo, cet émulateur est très stable
+
+
 
 
 
