@@ -27,9 +27,11 @@ Une rom, ou bien un fichier .rom, est l'image d'une cartouche, c'est l'entièret
 
 ### Comment organiser ses fichiers.
 
-Toujours avoir un fichier mère avec tout les émulateurs à l'intérieur, par exemple, voici le miens:
+Toujours avoir un fichier mère avec tout les émulateurs à l'intérieur, par exemple, voici le mien:
 
+![fichier_emulateur](media/emulatorfile.PNG)
 
+>Chacun de ces dossiers contiennent l'émulateur en question ainsi que les roms ou isos
 
 
 
