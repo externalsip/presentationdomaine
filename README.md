@@ -131,7 +131,7 @@ Le seul émulateur de la liste qui n'est pas d'une console Nintendo, Il est éga
 
 >L'émulateur peux être mis en plein écran, ce qui n'est pas possible sur les autres en dehors des jeux, également, on peux voir que j'ai des mises-à-jours à faire.
 
-Cet émulateur est un peu plus instable, certains jeux ne sont pas encore parfaitement fonctionnels, et 
+Cet émulateur est un peu plus instable, certains jeux ne sont pas encore parfaitement fonctionnels, et des fois il arrive de rencontrer des très grands framedrops. Mais tout de même, l'émulateur fonctionne, 
 
 
 
