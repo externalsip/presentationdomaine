@@ -149,9 +149,39 @@ Après le succès des consoles portables de Nintendo, Sony a essayé d'aller che
 
 Probablement l'émulateur le plus connu, ainsi que le plus complet, à l'origine, c'était un émulateur de GameCube, mais aujourd'hui, c'est également un émulateur de Wii, cet émulateur fonctionne d'ailleurs avec un github, dans lequel il y a 35 885 commits au moment où ce tutoriel est écrit. Comme project64 et PPSSPP, Dolphin demande un repository file où il va aller chercher les isos ainsi que les fichiers wbfs (wii backup file system), un type de fichier qui est crée avec de l'homebrew, qui est un sujet dans lequel je suis beaucoup moins expérimenté. En résumé, de l'homebrew, c'est pirater des consoles pour ensuite pouvoir faire plus ou moins n'importe quoi avec.
 
+![gc_repository](media/gcrepository.PNG)
 
+>Le repository de Dolphin rajoute la plateforme sur laquelle le jeu originalement était joué en plus de la compagnie l'ayant publiée.
 
+Dolphin est probablement l'émulateur le plus complet, avec des nouveaux builds sortants à chaques jours sur le github et la possibilitée de le modifier sois même avec vscode si on utilise une version beta.
 
+![gc_jeu](media/gcjeu.PNG)
+
+![gc_jeu2](media/gcjeu2.PNG)
+
+>Fire Emblem: Path of Radiance, comme montré plus tôt est l'un des jeux les plus chers de la console à cause de sa raretée, la raison de celle-ci est que Nintendo n'avait pas beaucoup de confiance en la série en dehors du Japon, et donc n'ont pas produit beaucoup de copies, ce qui est quelque chose qu'ils font surprenament souvent avec leurs séries moins populaires.
+
+Bien sûr, l'émulateur n'est pas parfait, ce qui est prouvé par les mises-à-jours encore régulières, mais quand il fonctionne, il fonctionne très bien. Il est très modifiable et permet de faire plusieurs choses n'étant pas possible sur les autres émulateurs, comme mettre les jeux en plein écran et remplir les pixels étirés.
+
+Pour une dernière fois, voici mon control mapping sur l'émulateur Dolphin:
+
+![gc_control_mapping](media/gccontrolmapping.PNG)
+
+La GameCube est vue comme l'une des meilleurs consoles que Nintendo n'ait jamais sorti, mais pourtant, c'est l'une de celles qui s'est le moins bien vendu, il y a plusieurs raisons à cela, la première étant qu'elle est sortie dans la même génération que la PS2, qui est la console qui s'est le mieux vendu de tout les temps, mais il y a d'autres raisons, tel que la console sortant 2 semains après le désastre du 11 septembre 2001, étouffant toute presse que Nintendo voudrait faire pour la console. Dans le cas de la Wii, bien sûr, c'est la console qui s'est le mieux vendue sortie par Nintendo, car elle apportait quelque chose que les autres n'apportaient pas, un marketing dirigé vers tout le monde, la console n'était pas vendue comme quelque chose de hardcore et sérieux comme les compétiteurs, mais plutôt comme quelque chose pour passer du temps avec la famille et les amis.
+
+## En conclusion
+
+L'émulation est un sujet très intéressant, et apporte quelque chose de nécéssaire au domaine du jeu vidéo, qui est la préservation, quelque chose que les compagnies devraient plus prendre au sérieux. Mais l'émulation en elle même n'est pas seulement utilisée sur ordinateurs, sachez que certains ports d'anciens jeux sont des émulations, par exemple, les Megaman et Megaman X collections sont des émulateurs, les collections de jeux Nes et Snes sur switch sont des émulateurs, ils apportent même certaines fonctions des émulateurs d'ordinateurs tels que les save states. L'émulation est quelque chose d'utile pour n'importe qui ayant un intérêt dans le jeu vidéo.
+
+## Autres émulateurs
+
+Bien sûr, il y a d'autre émulateurs que ceux dont j'ai parlé, voici une liste de quelques d'entres eux:
+
+- FCEUX (Nes)
+- PCSX-Reloaded (Ps1)
+- PSCX2 (Ps2)
+- RPCS3 (Ps3)
+- Citra (3DS)
 
 
 
