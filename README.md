@@ -22,7 +22,7 @@ Ce tutoriel va surtout se porter sur comment utiliser plusieurs émulateurs, je 
 
 ### C'est quoi une rom?
 
-Une rom, ou bien un fichier .rom, est l'image d'une cartouche, c'est l'entièreté du contenu d'une cartouche contenu dans un fichier, c'est la même chose pour les fichiers .iso qui sont l'image d'un disque compact. Quand vous recherchez une rom, n'installez jamais de fichier .exe, les roms ne sont pas des exécutables, car sinon les émulateurs ne serviraient pas à grand chose, ces fichiers sont toujours des virus. Le seul autre fichier dans lequel une rom peut apparaître serait un fichier .zip, mais à ce moment là, **Toujours analyser les fichiers .zip avant de les extraire.** À cause de la nature du sujet, il y a souvent des virus dans les roms, il faut faire extrêmement attention lorsqu'on recherche ces fichiers.
+Une rom, ou bien un fichier .rom, est l'image d'une cartouche, c'est l'entièreté du contenu d'une cartouche contenu dans un fichier, c'est la même chose pour les fichiers .iso qui sont l'image d'un disque compact. Quand vous recherchez une rom, n'installez jamais de fichier .exe, les roms ne sont pas des exécutables, car sinon les émulateurs ne serviraient pas à grand chose, ces fichiers sont toujours des virus. Le seul autre fichier dans lequel une rom peut apparaître serait un fichier .zip, mais à ce moment là, **Toujours analyser les fichiers .zip avec un antivirus avant de les extraire.** À cause de la nature du sujet, il y a souvent des virus dans les roms, il faut faire extrêmement attention lorsqu'on recherche ces fichiers.
 
 ### Quels avantages y-a-t'il à utiliser un émulateur?
 
@@ -131,7 +131,25 @@ Le seul émulateur de la liste qui n'est pas d'une console Nintendo, Il est éga
 
 >L'émulateur peux être mis en plein écran, ce qui n'est pas possible sur les autres en dehors des jeux, également, on peux voir que j'ai des mises-à-jours à faire.
 
-Cet émulateur est un peu plus instable, certains jeux ne sont pas encore parfaitement fonctionnels, et des fois il arrive de rencontrer des très grands framedrops. Mais tout de même, l'émulateur fonctionne, 
+Cet émulateur est un peu plus instable, certains jeux ne sont pas encore parfaitement fonctionnels, et des fois il arrive de rencontrer des très grands framedrops. Mais tout de même, l'émulateur fonctionne, cet émulateur est aussi le premier de la liste à utiliser des isos, car la psp fonctionnait avec des petits disques compacts.
+
+![psp_jeu](media/pspjeu.PNG)
+
+![pspjeu2](media/pspjeu2.PNG)
+
+>Persona 3 portable, vu comme une des seules raisons de vouloir une psp, le jeu est une version moins complète que le jeu original sur ps2, mais en retour apporte des changements de QoL ainsi que la posibilité de jouer un protagoniste féminin, qui a une histoire qui peut diverger de l'histoire originale aisni que de la nouvelle musique pour la plupart des évènements.
+
+Encore une fois, à cause de la trois-dimension, utiliser un clavier pour jouer peut être très compliqué, néamoins, voici mon control mapping:
+
+![psp_control_mapping](media/pspcontrolmapping.PNG)
+
+Après le succès des consoles portables de Nintendo, Sony a essayé d'aller chercher une part du marché, mais elle s'est beaucoup moins bien vendue que La famille Nintendo DS néamoins, la faute pourrait probablement être attribuée au manque de jeux exclusifs sur la console, ce que la Nintedo DS avait en grand nombre. L'émulateur lui même est intéressant, ayant un ui très différent des autres consoles que j'ai couvert. Même que lorsqu'on sauvegarde dans un jeu, il y a l'interface original de la PsP qui est présent.
+
+### Dolphin
+
+Probablement l'émulateur le plus connu, ainsi que le plus complet, à l'origine, c'était un émulateur de GameCube, mais aujourd'hui, c'est également un émulateur de Wii, cet émulateur fonctionne d'ailleurs avec un github, dans lequel il y a 35 885 commits au moment où ce tutoriel est écrit. Comme project64 et PPSSPP, Dolphin demande un repository file où il va aller chercher les isos ainsi que les fichiers wbfs (wii backup file system), un type de fichier qui est crée avec de l'homebrew, qui est un sujet dans lequel je suis beaucoup moins expérimenté. En résumé, de l'homebrew, c'est pirater des consoles pour ensuite pouvoir faire plus ou moins n'importe quoi avec.
+
+
 
 
 
